@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D87093EE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=D87093EE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Songhee's+GitHub!👋)](https://git.io/typing-svg)
- 
+
 
 <!-- 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysjang0926&count_bg=%23D7D265&title_bg=%23252222&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/shlee1103)
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats 📊
 ![Songhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1103&theme=buefy&show_icons=true)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shlee1103)](https://solved.ac/백준아이디/)
 
 ## 💪 Experience 💪
 💻 **SSAFY 12기** _(2024.07~)_
