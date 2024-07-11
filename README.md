@@ -40,19 +40,6 @@ Here are some ideas to get you started:
 
 <br>
 
-## 🏆 Award 🏆
-
-🥈 [2024년 한국수자원학회 올해의 논문상] *2024.05.10*
-<br> &nbsp; &nbsp; 고해상도 도시 침수 해석을 위한 딥러닝 기반 초해상화 기술 적용
-
-🥉 [2023년 한국수자원학회 학술발표대회 우수논문상] *2022.05.26*
-<br> &nbsp; &nbsp; 셀룰러 오토마타 기반 CA-Urban 모형의 개발 및 침수해석 평가 : Portland 도심 적용 사례
-
-🏅 [2023년 한국방재학회 학술발표대회 우수논문상] *2023.02.17*
-<br> &nbsp; &nbsp; 셀룰러 오토마타 기반 도시침수 해석 모형 CA-Urban의 개발 및 적용성 평가
-
-<br>
-
 ## 📝 paper 📝
 📄 [Journal of Hydrology 국외논문 게재] *2024.02, Journal of Hydrology: Regional Studies*
 <br> &nbsp; &nbsp; Climate change impact assessment on water resources management using a combined multi-model approach in South Korea
@@ -66,10 +53,22 @@ Here are some ideas to get you started:
 📄 [KSCE 국내논문 게재] *2023.01, 대한토목학회*
 <br> &nbsp; &nbsp; 집중형 모형 IHACRES와 GR4J를 이용한 강수 및 기온 변동성에 대한 유출 해석 민감도 평가
 
+<br>
+
+## 🏆 Award 🏆
+
+🥈 [2024년 한국수자원학회 올해의 논문상] *2024.05.10*
+<br> &nbsp; &nbsp; 고해상도 도시 침수 해석을 위한 딥러닝 기반 초해상화 기술 적용
+
+🥉 [2023년 한국수자원학회 학술발표대회 우수논문상] *2022.05.26*
+<br> &nbsp; &nbsp; 셀룰러 오토마타 기반 CA-Urban 모형의 개발 및 침수해석 평가 : Portland 도심 적용 사례
+
+🏅 [2023년 한국방재학회 학술발표대회 우수논문상] *2023.02.17*
+<br> &nbsp; &nbsp; 셀룰러 오토마타 기반 도시침수 해석 모형 CA-Urban의 개발 및 적용성 평가
 
 <br>
 
-## ❤️ What I like ❤️
+## 💜 What I like 💜
 📺 Netflix
 
 🍗 Chicken
