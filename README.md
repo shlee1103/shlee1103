@@ -26,7 +26,7 @@ Here are some ideas to get you started:
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysjang0926&count_bg=%23D7D265&title_bg=%23252222&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/shlee1103)
 
-![Songhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1103&theme=vue&show_icons=true)
+![Songhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1103&theme=buefy&show_icons=true)
 
 
 ## 💪 Experience 💪
