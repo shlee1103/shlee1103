@@ -73,10 +73,27 @@ Here are some ideas to get you started:
 
 🍗 Chicken
 
-
 <br>
  
 ## 📞 Contact 📞
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shee981103@gmail.com) 
 [![Blog Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/hd05025)
-    
+
+<br>
+
+## 🔨 Tech Stack 🔨
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=black"> 
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+</div><br>
+</div>
+
+## 📢 Cowork tools 📢
+<div>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-FFE4AF?style=flat-square&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Slack-FF6C37?style=flat-square&logo=Slack&logoColor=white"/>
+</div>
