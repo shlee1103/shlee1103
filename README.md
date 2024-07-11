@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
 -->
 
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=D87093EE&text=&animation=twinkling&height=80)
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&weight=500&size=45&duration=4000&pause=3&color=D87093EE&center=false&vCenter=false&multiline=true&repeat=true&width=1000&height=100&lines=Welcome+to+Songhee's+GitHub!👋)](https://git.io/typing-svg)
  
 <div align="left">
@@ -28,7 +26,7 @@ Here are some ideas to get you started:
   
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysjang0926&count_bg=%23D7D265&title_bg=%23252222&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/shlee1103)
 
-</div>
+![Songhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1103&theme=vue&show_icons=true)
 
 
 ## 💪 Experience 💪
@@ -39,6 +37,7 @@ Here are some ideas to get you started:
 🎓 토목공학과 학사 졸업 _(2017.03 ~ 2022.02)_
 
 <br>
+
 <!--
 ## 📝 paper 📝
 📄 [Journal of Hydrology 국외논문 게재] *2024.02, Journal of Hydrology: Regional Studies*
@@ -66,7 +65,6 @@ Here are some ideas to get you started:
 🏅 [2023년 한국방재학회 학술발표대회 우수논문상] *2023.02.17*
 <br> &nbsp; &nbsp; 셀룰러 오토마타 기반 도시침수 해석 모형 CA-Urban의 개발 및 적용성 평가
 
-<br>
 -->
 
 <br>
@@ -86,11 +84,13 @@ Here are some ideas to get you started:
 
 ## 🔨 Tech Stack 🔨
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
+    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+   <!-- <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=black"> 
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Backbone.js-0071B5?style=flat-square&logo=backbone.js&logoColor=black"> -->
+    
 </div><br>
 </div>
 
