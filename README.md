@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 🎓 토목공학과 학사 졸업 _(2017.03 ~ 2022.02)_
 
 <br>
-
+<!--
 ## 📝 paper 📝
 📄 [Journal of Hydrology 국외논문 게재] *2024.02, Journal of Hydrology: Regional Studies*
 <br> &nbsp; &nbsp; Climate change impact assessment on water resources management using a combined multi-model approach in South Korea
@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 <br> &nbsp; &nbsp; 셀룰러 오토마타 기반 도시침수 해석 모형 CA-Urban의 개발 및 적용성 평가
 
 <br>
-
+-->
 ## 💜 What I like 💜
 📺 Netflix
 
