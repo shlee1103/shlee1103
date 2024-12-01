@@ -23,11 +23,12 @@ Here are some ideas to get you started:
 
 <!-- 
 [![GITHUB](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fysjang0926&count_bg=%23D7D265&title_bg=%23252222&icon=github.svg&icon_color=%23E7E7E7&title=GITHUB&edge_flat=false)](https://github.com/shlee1103)
--->
+
 
 ### 📊 GitHub Stats 📊
 ![Songhee's GitHub stats](https://github-readme-stats.vercel.app/api?username=shlee1103&theme=buefy&show_icons=true)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shlee1103)](https://solved.ac/백준아이디/)
+-->
 
 ## 💪 Experience 💪
 💻 **SSAFY 12기** _(2024.07~)_
@@ -81,9 +82,17 @@ Here are some ideas to get you started:
 <br>
 
 ## 🔨 Tech Stack 🔨
+<h6>Frontend</h6>
 <div style="display:flex; flex-direction:row;">
-    <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
+    <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"> 
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"> 
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=black">
+<h6>Backend</h6>
+<div style="display:flex; flex-direction:row;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+ 
    <!-- <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white"> 
     <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"> 
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"> 
@@ -95,6 +104,7 @@ Here are some ideas to get you started:
 ## 📢 Cowork tools 📢
 <div>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-FFE4AF?style=flat-square&logo=Notion&logoColor=black"/>
-<img src="https://img.shields.io/badge/Slack-FF6C37?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-E6E5E4?style=flat-square&logo=Notion&logoColor=black"/>
+<img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 </div>
