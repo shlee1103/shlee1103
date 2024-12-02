@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shlee1103)](https://solved.ac/백준아이디/)
 -->
 
-## 💪 Experience 💪
+## Experience 💪
 💻 **SSAFY 12기** _(2024.07~)_
 
 🎓 토목공학과 수자원전공 대학원 석사 졸업 _(2022.03 ~ 2024.02)_
@@ -68,20 +68,20 @@ Here are some ideas to get you started:
 
 -->
 
-## 💜 What I like 💜
+## 💜 What I like 
 📺 Netflix
 
 🍗 Chicken
 
 <br>
  
-## 📞 Contact 📞
+## 📞 Contact
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:shee981103@gmail.com) 
 [![Blog Badge](https://img.shields.io/badge/Blog-555263?style=flat&logoColor=white)](https://blog.naver.com/hd05025)
 
 <br>
 
-## 🔨 Tech Stack 🔨
+## 🔨 Tech Stack
 <h6>Frontend</h6>
 <div style="display:flex; flex-direction:row;">
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"> 
@@ -101,7 +101,7 @@ Here are some ideas to get you started:
 </div><br>
 </div>
 
-## 📢 Cowork tools 📢
+## 📢 Cowork tools
 <div>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-E6E5E4?style=flat-square&logo=Notion&logoColor=black"/>
