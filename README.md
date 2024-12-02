@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=shlee1103)](https://solved.ac/백준아이디/)
 -->
 
-## Experience 💪
+## Experience
 💻 **SSAFY 12기** _(2024.07~)_
 
 🎓 토목공학과 수자원전공 대학원 석사 졸업 _(2022.03 ~ 2024.02)_
