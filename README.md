@@ -36,7 +36,7 @@
 
 ### **:: Contact me**
 
-◽ Email: [shee981103@gmail.com](mailto:shee981103@gmail.com)
+💌 Email: [shee981103@gmail.com](mailto:shee981103@gmail.com)
 
 <!-- 자주 사용하는 언어 빈도 -->
 <!-- https://github-readme-stats.vercel.app/api/top-langs/?username=leewooseong&layout=compact -->
