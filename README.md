@@ -27,7 +27,7 @@
 ◽️ **Portfolio** → [🔗 Link](https://scratched-cephalopod-eb9.notion.site/11db653cff404c93b682a31a7bb54cfe)<br>
 ◽️ **Blog** → in the works..<br> -->
 
----
+
 
 ### **:: Contact me**
 
